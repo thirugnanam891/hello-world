@@ -1,4 +1,4 @@
 s="Hello"
 t="World"
-x=s+t
-print(x)
+
+print(s,end="t")
